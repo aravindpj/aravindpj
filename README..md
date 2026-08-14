@@ -2,7 +2,7 @@
 
 Backend Engineer building scalable Node.js microservices, REST APIs, and event-driven systems. 3 years of experience across cloud-native applications, distributed systems, and performance-critical backends.
 
-📍 Bengaluru, India · 📧 aravindjayan1245@gmail.com · [LinkedIn](#) · [GitHub](#)
+📍Kerala, India · 📧 aravindjayan1245@gmail.com · [LinkedIn](#) · [GitHub](#)
 
 ---
 
